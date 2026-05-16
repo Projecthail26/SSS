@@ -1,0 +1,9 @@
+select * from department a inner join  emplyoee b on a.dept_id =b.dept_id 
+
+where b.emplyee_sal >50000
+
+
+Hi Sofiya
+
+I had disscussion with aloyssis 
+hetold me there is some vaccuncy in farmars account for informatica 
